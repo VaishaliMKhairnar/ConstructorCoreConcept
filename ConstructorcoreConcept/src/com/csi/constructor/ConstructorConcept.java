@@ -3,7 +3,7 @@ package com.csi.constructor;
 class Employee {
 	int empId = 222;
 	String empName = "VEERA";
-	double empSalary = 9876577.98;
+	double empSalary = 98765.98;
 
 	public Employee() {
 		System.out
